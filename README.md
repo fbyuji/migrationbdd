@@ -18,11 +18,11 @@ L'automatisation a été réalisée avec **Python**, **Pytest**, et **MariaDB**.
  - Automatisation avec **pytest** pour exécuter les tests en un clic  
 
 ## Technologies Utilisées
-- **Python 3.11** 🐍
-- **MariaDB / MySQL** 🛢️
-- **Pytest** 🧪
-- **Pandas** 📊
-- **VS Code** 💻
+- **Python 3.11**
+- **MariaDB / MySQL** 
+- **Pytest**
+- **Pandas**
+- **VS Code**
 
 ## 🔧 Installation & Exécution
 1. **Installer les dépendances**
